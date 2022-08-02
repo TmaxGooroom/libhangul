@@ -1,0 +1,16 @@
+modify hanja dictionary
+Index: libhangul/data/hanja/hanja.txt
+===================================================================
+--- libhangul.orig/data/hanja/hanja.txt
++++ libhangul/data/hanja/hanja.txt
+@@ -301322,8 +301322,8 @@ 휘:麾:대장기 휘
+ 휘:彙:무리 휘, 모을 휘
+ 휘:暉:빛 휘, 햇빛 휘
+ 휘:煇:빛날 휘
+-휘:褘:
+-휘:撝:찣을 휘
++휘:褘:꺼릴 휘
++휘:撝:찢을 휘
+ 휘:翬:훨훨날 휘
+ 휘:彚:
+ 휘:椲:
